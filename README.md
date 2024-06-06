@@ -1,3 +1,5 @@
+# Supply Chain Analysis
+
 Supply Chain Analysis involves examining and optimizing the flow of goods, information, and finances as they move from supplier to manufacturer to wholesaler to retailer to consumer. This analysis aims to enhance efficiency, reduce costs, and improve overall performance and responsiveness.
 
 Some of the results or visualizations for the project:
